@@ -1,0 +1,15 @@
+.ui.menu>.container, .ui.menu>.grid{
+  justify-content: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.addcontact{
+  margin-top: 20px;
+}
+
+.item-trail{
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
